@@ -47,7 +47,7 @@ export default function Page() {
           <p>That guy is the writer of a few banned books.</p>
           <p>The little tales they tell are false.</p>
           <p>The door was barred, locked, and bolted as well.</p>
-          <p>Ripe pears are fit for a queen's table.</p>
+          <p>Ripe pears are fit for a queen&apos;s table.</p>
           <p>A big wet stain was on the round carpet.</p>
           <p>The kite dipped and swayed, but stayed aloft.</p>
           <p>The pleasant hours fly by much too soon.</p>
@@ -212,9 +212,9 @@ export default function Page() {
           <p>See the player scoot to third base.</p>
           <p>Slide the bill between the two leaves.</p>
           <p>Many hands help get the job done.</p>
-          <p>We don't like to admit our small faults.</p>
+          <p>We don&apos;t like to admit our small faults.</p>
           <p>No doubt about the way the wind blows.</p>
-          <p>Dig deep in the earth for pirate's gold.</p>
+          <p>Dig deep in the earth for pirate&apos;s gold.</p>
           <p>The steady drip is worse than a drenching rain.</p>
           <p>A flat pack takes less luggage space.</p>
           <p>Green ice frosted the punch bowl.</p>
